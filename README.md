@@ -22,6 +22,8 @@ This project uses text preprocessing and feature extraction methods to convert m
 📸Output
 <img width="1324" height="854" alt="image" src="https://github.com/user-attachments/assets/d796a102-ee7a-4508-99e9-b1a4bd07428e" />
 
+<img width="1574" height="806" alt="image" src="https://github.com/user-attachments/assets/0b4e1577-0013-4aa4-ab8c-260f37e426a0" />
+
 
  📊 Model Details
 - Algorithm: Logistic Regression
