@@ -31,8 +31,6 @@ This project uses text preprocessing and feature extraction methods to convert m
 - Dataset: SMS Spam Collection Dataset
 
  ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/spam-message-classifier.git# Spam-message-classifier
-Spam message  classifier using ML
+-pip install streamlit scikit-learn pandas
+-python -m streamlit run app.py
 
