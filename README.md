@@ -20,6 +20,7 @@ This project uses text preprocessing and feature extraction methods to convert m
 - Streamlit
   
 📸Output
+<img width="1324" height="854" alt="image" src="https://github.com/user-attachments/assets/d796a102-ee7a-4508-99e9-b1a4bd07428e" />
 
 
  📊 Model Details
