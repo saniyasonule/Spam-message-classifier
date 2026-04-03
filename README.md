@@ -31,6 +31,7 @@ This project uses text preprocessing and feature extraction methods to convert m
 - Dataset: SMS Spam Collection Dataset
 
  ▶️ How to Run
+ 
 -pip install streamlit scikit-learn pandas
 -python -m streamlit run app.py
 
