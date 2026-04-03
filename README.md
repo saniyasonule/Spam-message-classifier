@@ -20,9 +20,7 @@ This project uses text preprocessing and feature extraction methods to convert m
 - Streamlit
   
 📸Output
-<img width="1567" height="854" alt="image" src="https://github.com/user-attachments/assets/e3b6122a-0ba6-4418-9c08-7dea04def542" />
 
-<img width="1574" height="806" alt="image" src="https://github.com/user-attachments/assets/8beaef9e-a801-4b03-be53-c362ef080267" />
 
  📊 Model Details
 - Algorithm: Logistic Regression
