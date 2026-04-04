@@ -3,9 +3,11 @@
 The Spam Message Classifier is a Machine Learning project that classifies SMS messages as **Spam** or **Ham (Not Spam)** using Natural Language Processing (NLP) techniques.
 
 🚀 Project Overview
+
 This project uses text preprocessing and feature extraction methods to convert messages into numerical data, which is then used to train a classification model. The model predicts whether a given message is spam or not with high accuracy.
 
 🔍 Features
+
 - Data cleaning and preprocessing (lowercasing, removing symbols)
 - Text vectorization using TF-IDF
 - Model training using Logistic Regression
